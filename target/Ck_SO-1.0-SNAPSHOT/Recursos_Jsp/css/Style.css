@@ -1,0 +1,27 @@
+:root{
+    --black: #222;
+    --white: #fff;
+    --azul: #0751a6;
+    --amarillo: #d3b717;
+    --rojo: #e71247;
+}
+*{
+    font-family: "Roboto", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.fa-user-alt{
+    font-size: 1.6rem;
+    background: linear-gradient(mediumpurple,pink);
+    -webkit-background-clip: text;
+    color: transparent;
+    bottom: 0;
+
+}
+.fa-shopping-cart{
+    font-size: 1.6rem;
+    color: var(--amarillo);
+}
+.row{
+    font-size: 12px;
+}
